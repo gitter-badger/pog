@@ -1,7 +1,7 @@
 {
   "name": "pog",
   "version": "0.0.1",
-  "description": "Pog is a modern MVC style framework built on top of io and koa.",
+  "description": "MVC style framework built for io or node.js",
   "main": "server.js",
   "repository": {
     "type": "git",
@@ -11,6 +11,8 @@
   "bugs": {
     "url": "https://github.com/pogjs/pog/issues"
   },
+  "author": "Jesse Weed (http://jesseweed.com)",
+  "license": "MIT",
   "keywords": [
     "node",
     "io",
@@ -22,11 +24,5 @@
     "rest",
     "api",
     "app"
-  ],
-  "author": "Jesse Weed (http://jesseweed.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pogjs/pog/issues"
-  },
-  "homepage": "https://github.com/pogjs/pog"
+  ]
 }
